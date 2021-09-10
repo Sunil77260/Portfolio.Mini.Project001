@@ -123,7 +123,7 @@ li {
 
 .logo h1 span {
   font-weight: bold;
-  color: #dd9a05;
+  color: rgb(147, 238, 1);
 }
 
 .nav-list {
@@ -316,7 +316,7 @@ li {
 }
 
 .icons span:hover {
-  color: #dd9a05;
+  color: #3b2183;
 }
 
 @media only screen and (max-width: 567px) {
@@ -451,13 +451,13 @@ a.btn:active {
   color: #fff;
 }
 
-.services-center {
+.education-center {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(25rem, 1fr));
   gap: 3rem;
 }
 
-.service {
+.education {
   color: #fff;
   background-color: #111;
   padding: 2rem;
@@ -466,27 +466,27 @@ a.btn:active {
   transition: all 300ms ease-in-out;
 }
 
-.service span {
+.education span {
   color: #dd9a05;
   font-size: 4rem;
   transition: all 300ms ease-in-out;
 }
 
-.service h2 {
+.education h2 {
   font-size: 1.8rem;
   margin-bottom: 1rem;
 }
 
-.service p {
+.education p {
   font-size: 1.4rem;
   color: #f1f1f1;
 }
 
-.service:hover {
+.education:hover {
   background-color: #dd9a05;
 }
 
-.service:hover span {
+.education:hover span {
   color: #fff;
 }
 
@@ -562,8 +562,8 @@ a.btn:active {
   }
 }
 
-/* Teams */
-.team {
+/* Gallery */
+.gallery {
   color: #fff;
   background-color: #111;
   padding: 3rem;
@@ -573,7 +573,7 @@ a.btn:active {
   transition: all 300ms ease-in-out;
 }
 
-.team .img-cover {
+.gallery .img-cover {
   overflow: hidden;
   border-radius: 10%;
   border: 4px solid #dd9a05;
@@ -583,29 +583,29 @@ a.btn:active {
   transition: all 300ms ease-in-out;
 }
 
-.team .img-cover img {
+.gallery .img-cover img {
   height: 100%;
   object-fit: cover;
 }
 
-.team h3 {
+.gallery h3 {
   font-size: 1.6rem;
   margin: 1rem 0;
 }
 
-.team p {
+.gallery p {
   font-size: 1.5rem;
   color: #ccc;
   width: 80%;
   margin: 0 auto 1rem auto;
 }
 
-.team:hover {
+.gallery:hover {
   border-bottom: 4px solid #fff;
   background-color: #dd9a05;
 }
 
-.team:hover .img-cover {
+.gallery:hover .img-cover {
   border-color: #fff;
 }
 
