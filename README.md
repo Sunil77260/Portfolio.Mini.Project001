@@ -81,7 +81,7 @@ Javascript, HTML, CSS...
 
   
 ## Demo
-https://github.com/Sunil77260/Myportfolio_Mini_Project01
+https://sunilportfolio01.netlify.app/
 
 
 
