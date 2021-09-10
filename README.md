@@ -2,7 +2,7 @@
 # Responsive Portfolio
 
 This is my first project in web development 
-in this project i impliment HTML CSS and Some basic function of JavaScript to make some annimation
+in this project i implement HTML CSS and Some basic function of JavaScript to make some annimation
 
 
 
@@ -12,7 +12,7 @@ in this project i impliment HTML CSS and Some basic function of JavaScript to ma
 - Animate On Scroll Webpage (Using AOS Library)
 - Hover Feature for buttons 
 - Automatic Slider for images (Using Glide.js ) 
-- Click buttons Feature CV is avaible 
+- Click buttons Feature CV is available 
 ## FAQ
 
 #### Question 1  Why should Choose this Project ?
